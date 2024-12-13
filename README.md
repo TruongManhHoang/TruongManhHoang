@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Truong Manh Hoang</h1>
 <h3 align="center">A Passionate Flutter Developer from Viet Nam</h3>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Truong Manh Hoang!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hoang!;" />
 </h1>
 
 # 💫 About Me:
